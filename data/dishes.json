@@ -1,0 +1,322 @@
+[
+    {
+      "id": 1,
+      "chef_id": 1,
+      "name": "Grilled Salmon",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/05/recipe-03-377x251.jpg",
+      "cooking_method": "Grilling",
+      "ingredients": ["Salmon fillet", "Olive oil", "Lemon", "Salt", "Black pepper"],
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "chef_id": 2,
+      "name": "Chocolate Soufflé",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/05/recipe-02-377x251.jpeg",
+      "cooking_method": "Baking",
+      "ingredients": ["Chocolate", "Eggs", "Sugar", "Butter", "Flour"],
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "chef_id": 3,
+      "name": "Beef Stroganoff",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/vegetables-italian-pizza-restaurant-1-377x251.jpg",
+      "cooking_method": "Sautéing",
+      "ingredients": ["Beef", "Onion", "Mushrooms", "Sour cream", "Beef broth"],
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "chef_id": 4,
+      "name": "Chicken Tikka Masala",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/pexels-photo-248422-1-377x251.jpg",
+      "cooking_method": "Grilling",
+      "ingredients": ["Chicken", "Yogurt", "Tomato sauce", "Spices", "Cream"],
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "chef_id": 5,
+      "name": "Sushi Rolls",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/05/recipe-02-377x251.jpeg",
+      "cooking_method": "Rolling",
+      "ingredients": ["Sushi rice", "Nori seaweed", "Fish", "Cucumber", "Avocado"],
+      "rating": 4.9
+    },
+    {
+      "id": 6,
+      "chef_id": 6,
+      "name": "Pasta Carbonara",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/pexels-photo-263041-1-377x251.jpg",
+      "cooking_method": "Boiling",
+      "ingredients": ["Pasta", "Eggs", "Bacon", "Parmesan cheese", "Black pepper"],
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "chef_id": 1,
+      "name": "Roasted Chicken",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/06/salmon-518032_1920-1-377x251.jpg",
+      "cooking_method": "Roasting",
+      "ingredients": ["Chicken", "Rosemary", "Garlic", "Butter", "Salt"],
+      "rating": 4.6
+    },
+    {
+      "id": 8,
+      "chef_id": 4,
+      "name": "Tiramisu",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/1-1-377x251.jpg",
+      "cooking_method": "Layering",
+      "ingredients": ["Ladyfingers", "Espresso", "Mascarpone cheese", "Cocoa powder", "Rum"],
+      "rating": 4.7
+    },
+    {
+      "id": 9,
+      "chef_id": 5,
+      "name": "Lobster Bisque",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/05/recipe-02-377x251.jpeg",
+      "cooking_method": "Simmering",
+      "ingredients": ["Lobster", "Heavy cream", "Tomato paste", "Onion", "Sherry"],
+      "rating": 4.5
+    },
+    {
+      "id": 10,
+      "chef_id": 4,
+      "name": "Vegetable Stir-Fry",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/05/recipe-02-377x251.jpeg",
+      "cooking_method": "Stir-frying",
+      "ingredients": ["Assorted vegetables", "Soy sauce", "Ginger", "Garlic", "Sesame oil"],
+      "rating": 4.3
+    },
+    {
+      "id": 11,
+      "chef_id": 1,
+      "name": "Chicken Piccata",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/1-1-377x251.jpg",
+      "cooking_method": "Sautéing",
+      "ingredients": [
+        "Chicken breast",
+        "Flour",
+        "Lemon",
+        "Capers",
+        "Butter"
+      ],
+      "rating": 4.3
+    },
+    {
+      "id": 12,
+      "chef_id": 2,
+      "name": "Chocolate Truffle Cake",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/1-1-377x251.jpg",
+      "cooking_method": "Baking",
+      "ingredients": [
+        "Chocolate",
+        "Butter",
+        "Eggs",
+        "Sugar",
+        "Flour"
+      ],
+      "rating": 4.8
+    },
+    {
+      "id": 13,
+      "chef_id": 2,
+      "name": "Blueberry Cheesecake",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/pexels-photo-263041-1-377x251.jpg",
+      "cooking_method": "Baking",
+      "ingredients": [
+        "Cream cheese",
+        "Graham crackers",
+        "Butter",
+        "Blueberries",
+        "Sugar"
+      ],
+      "rating": 4.6
+    },
+    {
+      "id": 14,
+      "chef_id": 3,
+      "name": "Beef Wellington",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/1-1-377x251.jpg",
+      "cooking_method": "Baking",
+      "ingredients": [
+        "Beef tenderloin",
+        "Puff pastry",
+        "Mushrooms",
+        "Dijon mustard",
+        "Egg"
+      ],
+      "rating": 4.9
+    },
+    {
+      "id": 15,
+      "chef_id": 3,
+      "name": "Lobster Bisque",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/05/recipe-03-377x251.jpg",
+      "cooking_method": "Simmering",
+      "ingredients": [
+        "Lobster",
+        "Heavy cream",
+        "Onion",
+        "Tomato paste",
+        "Sherry wine"
+      ],
+      "rating": 4.7
+    },
+    {
+      "id": 16,
+      "chef_id": 8,
+      "name": "Vegetable Curry",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/pexels-photo-263041-1-377x251.jpg",
+      "cooking_method": "Simmering",
+      "ingredients": [
+        "Potatoes",
+        "Carrots",
+        "Cauliflower",
+        "Tomatoes",
+        "Coconut milk"
+      ],
+      "rating": 4.2
+    },
+    {
+      "id": 17,
+      "chef_id": 8,
+      "name": "Chana Masala",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/pexels-photo-248422-1-377x251.jpg",
+      "cooking_method": "Simmering",
+      "ingredients": [
+        "Chickpeas",
+        "Onion",
+        "Tomatoes",
+        "Garlic",
+        "Spices"
+      ],
+      "rating": 4.4
+    },
+    {
+      "id": 18,
+      "chef_id": 9,
+      "name": "Pork Ribs",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/pexels-photo-248422-1-377x251.jpg",
+      "cooking_method": "Smoking",
+      "ingredients": [
+        "Pork ribs",
+        "BBQ sauce",
+        "Brown sugar",
+        "Paprika",
+        "Salt"
+      ],
+      "rating": 4.6
+    },
+    {
+        "id": 19,
+        "chef_id": 10,
+        "name": "Grilled Salmon",
+        "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/1-1-377x251.jpg",
+        "cooking_method": "Grilling",
+        "ingredients": ["Salmon fillet", "Olive oil", "Lemon", "Salt", "Pepper"],
+        "rating": 4.5
+      },
+      {
+        "id": 20,
+        "chef_id": 7,
+        "name": "Chocolate Soufflé",
+        "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/1-1-377x251.jpg",
+        "cooking_method": "Baking",
+        "ingredients": ["Dark chocolate", "Eggs", "Sugar", "Butter", "Vanilla extract"],
+        "rating": 4.8
+      },
+      {
+        "id": 21,
+        "chef_id": 8,
+        "name": "Chicken Parmesan",
+        "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/vegetables-italian-pizza-restaurant-1-377x251.jpg",
+        "cooking_method": "Baking",
+        "ingredients": ["Chicken breast", "Tomato sauce", "Mozzarella cheese", "Bread crumbs", "Parmesan cheese"],
+        "rating": 4.6
+      },
+      {
+        "id": 22,
+        "chef_id": 9,
+        "name": "Beef Stir-Fry",
+        "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/vegetables-italian-pizza-restaurant-1-377x251.jpg",
+        "cooking_method": "Stir-Frying",
+        "ingredients": ["Beef sirloin", "Bell peppers", "Broccoli", "Soy sauce", "Garlic"],
+        "rating": 4.3
+      },
+      {
+        "id": 23,
+        "chef_id": 10,
+        "name": "Caprese Salad",
+        "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/pexels-photo-248422-1-377x251.jpg",
+        "cooking_method": "Assembling",
+        "ingredients": ["Tomatoes", "Fresh mozzarella", "Basil leaves", "Olive oil", "Balsamic vinegar"],
+        "rating": 4.7
+      },
+      {
+        "id": 24,
+        "chef_id": 7,
+        "name": "Pesto Pasta",
+        "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/vegetables-italian-pizza-restaurant-1-377x251.jpg",
+        "cooking_method": "Boiling",
+        "ingredients": ["Pasta", "Basil leaves", "Pine nuts", "Parmesan cheese", "Garlic"],
+        "rating": 4.4
+      },
+      {
+        "id": 25,
+        "chef_id": 8,
+        "name": "Grilled Chicken",
+        "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/05/recipe-03-377x251.jpg",
+        "cooking_method": "Grilling",
+        "ingredients": ["Chicken breast", "Olive oil", "Lemon", "Salt", "Herbs"],
+        "rating": 4.6
+      },
+      {
+        "id": 26,
+        "chef_id": 9,
+        "name": "Shrimp Scampi",
+        "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/05/recipe-03-377x251.jpg",
+        "cooking_method": "Sautéing",
+        "ingredients": ["Shrimp", "Garlic", "Butter", "Lemon", "White wine"],
+        "rating": 4.8
+      },
+      {
+        "id": 27,
+        "chef_id": 10,
+        "name": "Ratatouille",
+        "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/vegetables-italian-pizza-restaurant-1-377x251.jpg",
+        "cooking_method": "Baking",
+        "ingredients": ["Eggplant", "Zucchini", "Bell peppers", "Tomatoes", "Herbs"],
+        "rating": 4.5
+      },
+      {
+        "id": 28,
+        "chef_id": 6,
+        "name": "Grilled Chicken",
+        "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/05/recipe-03-377x251.jpg",
+        "cooking_method": "Grilling",
+        "ingredients": ["Chicken breast", "Olive oil", "Lemon", "Salt", "Herbs"],
+        "rating": 4.6
+      },
+      {
+        "id": 29,
+        "chef_id": 5,
+        "name": "Shrimp Scampi",
+        "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/05/recipe-03-377x251.jpg",
+        "cooking_method": "Sautéing",
+        "ingredients": ["Shrimp", "Garlic", "Butter", "Lemon", "White wine"],
+        "rating": 4.8
+      },
+      {
+        "id": 30,
+        "chef_id": 6,
+        "name": "Ratatouille",
+        "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/vegetables-italian-pizza-restaurant-1-377x251.jpg",
+        "cooking_method": "Baking",
+        "ingredients": ["Eggplant", "Zucchini", "Bell peppers", "Tomatoes", "Herbs"],
+        "rating": 4.5
+      }
+]
+     
+  

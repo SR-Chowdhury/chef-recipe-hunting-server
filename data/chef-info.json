@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "name": "John Smith",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/3.jpg",
+      "position": "Executive Chef",
+      "description": "With a passion for creating innovative dishes, John Smith has established himself as a culinary expert in the industry.",
+      "likes": 1200,
+      "recipes": 80,
+      "experience": 15,
+      "nationality": "Bangladeshi"
+    },
+    {
+      "id": 2,
+      "name": "Emily Johnson",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/2.jpg",
+      "position": "Pastry Chef",
+      "description": "Emily Johnson's exquisite pastry creations have won the hearts of many, and she continues to amaze with her artistic flair.",
+      "likes": 800,
+      "recipes": 50,
+      "experience": 10,
+      "nationality": "Turkis"
+    },
+    {
+      "id": 3,
+      "name": "Keka Afa",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/3.jpg",
+      "position": "Sous Chef",
+      "description": "Known for his attention to detail and precise techniques, Michael Lee has honed his skills working in renowned kitchens.",
+      "likes": 1500,
+      "recipes": 70,
+      "experience": 12,
+      "nationality": "Arabian"
+    },
+    {
+      "id": 4,
+      "name": "Sophia Chen",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/1.jpg",
+      "position": "Line Cook",
+      "description": "Sophia Chen brings her multicultural background to create fusion dishes that showcase a harmonious blend of flavors.",
+      "likes": 600,
+      "recipes": 40,
+      "experience": 8,
+      "nationality": "Spanish"
+    },
+    {
+      "id": 5,
+      "name": "Daniel Rodriguez",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/2.jpg",
+      "position": "Grill Master",
+      "description": "Daniel Rodriguez is a master of the grill, crafting perfectly charred and succulent dishes that leave diners wanting more.",
+      "likes": 1000,
+      "recipes": 60,
+      "experience": 9,
+      "nationality": "Chinese"
+    },
+    {
+      "id": 6,
+      "name": "Olivia Anderson",
+      "image": "https://radiustheme.com/demo/wordpress/redchili/wp-content/uploads/2017/02/3.jpg",
+      "position": "Catering Chef",
+      "description": "Olivia Anderson's expertise lies in creating exquisite menus for events, blending flavors that cater to diverse palates.",
+      "likes": 900,
+      "recipes": 55,
+      "experience": 11,
+      "nationality": "Indian"
+    }
+  ]
+  
